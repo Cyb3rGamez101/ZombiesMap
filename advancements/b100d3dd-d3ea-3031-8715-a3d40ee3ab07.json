@@ -1,0 +1,18 @@
+{
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-05-21 22:43:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2020-05-21 22:43:06 -0400",
+      "minecraft:river": "2020-05-21 22:43:04 -0400",
+      "minecraft:swamp": "2020-05-21 22:38:38 -0400",
+      "minecraft:plains": "2020-05-21 22:38:44 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}

@@ -1,0 +1,475 @@
+{
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2022-08-21 18:46:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-21 19:11:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2022-08-21 18:44:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2022-08-21 19:11:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2022-08-21 18:46:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:cheater": {
+    "criteria": {
+      "cheater": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "owza_advancements:forgotten_mansion": {
+    "criteria": {
+      "enterAmora": "2022-01-01 18:13:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-08-09 19:11:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-08-21 19:25:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-08-07 17:00:12 -0400",
+      "minecraft:snowy_mountains": "2022-08-09 18:43:17 -0400",
+      "minecraft:forest": "2022-01-01 18:13:55 -0500",
+      "minecraft:mountains": "2022-08-07 17:07:36 -0400",
+      "minecraft:taiga": "2022-08-07 17:52:54 -0400",
+      "minecraft:giant_tree_taiga": "2022-08-07 17:52:55 -0400",
+      "minecraft:taiga_hills": "2022-08-07 17:52:27 -0400",
+      "minecraft:desert": "2022-01-01 18:17:21 -0500",
+      "minecraft:jungle": "2022-08-07 16:58:11 -0400",
+      "minecraft:birch_forest": "2022-08-07 17:52:45 -0400",
+      "minecraft:jungle_hills": "2022-08-09 18:43:56 -0400",
+      "minecraft:bamboo_jungle": "2022-01-01 18:13:57 -0500",
+      "minecraft:warm_ocean": "2022-08-09 19:23:04 -0400",
+      "minecraft:deep_lukewarm_ocean": "2022-08-07 17:53:57 -0400",
+      "minecraft:badlands": "2022-01-01 18:13:16 -0500",
+      "minecraft:beach": "2022-01-01 18:16:13 -0500",
+      "minecraft:dark_forest": "2022-01-01 18:16:18 -0500",
+      "minecraft:river": "2022-01-01 18:13:02 -0500",
+      "minecraft:lukewarm_ocean": "2022-01-01 18:15:25 -0500",
+      "minecraft:wooded_mountains": "2022-08-07 17:07:39 -0400",
+      "minecraft:wooded_hills": "2022-08-07 17:07:50 -0400",
+      "minecraft:swamp": "2022-01-01 18:13:19 -0500",
+      "minecraft:plains": "2022-01-01 18:12:03 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-08-18 19:39:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2022-08-21 18:44:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:ruined_city": {
+    "criteria": {
+      "enterAtlas": "2022-01-01 18:13:16 -0500"
+    },
+    "done": true
+  },
+  "owza_advancements:the_deserted_city": {
+    "criteria": {
+      "enterLosEchos": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-08-09 19:08:00 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:milestones": {
+    "criteria": {
+      "automatic": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:pyrotechnics_expert": {
+    "criteria": {
+      "flare": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2022-08-21 19:25:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-08-21 18:40:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2022-08-21 18:46:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:root": {
+    "criteria": {
+      "startMap": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2022-08-18 19:31:11 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:the_central_house": {
+    "criteria": {
+      "enterCityHall": "2022-12-15 17:12:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-08-21 19:25:39 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:city_of_the_gods": {
+    "criteria": {
+      "enterOlympus": "2022-08-07 16:58:26 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:not_very_amusing": {
+    "criteria": {
+      "enterPark": "2022-08-07 16:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2022-12-15 17:09:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2022-08-21 18:46:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:the_metro_tells": {
+    "criteria": {
+      "metroMessages": "2022-12-15 17:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-08-21 18:44:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-21 19:11:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-21 19:11:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2022-08-21 19:25:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-09 18:32:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2022-08-21 18:44:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-18 19:39:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-08-21 18:40:12 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:begin_map": {
+    "criteria": {
+      "leaveHouse": "2022-01-01 18:11:44 -0500"
+    },
+    "done": true
+  },
+  "owza_advancements:time_for_a_hike": {
+    "criteria": {
+      "enterFairhill": "2022-08-07 17:52:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-08-21 18:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2022-08-21 18:44:57 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}

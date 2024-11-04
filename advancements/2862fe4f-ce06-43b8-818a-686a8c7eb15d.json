@@ -1,0 +1,219 @@
+{
+  "owza_advancements:root": {
+    "criteria": {
+      "startMap": "2023-05-28 15:07:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-05-28 18:06:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-05-28 16:30:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2023-05-28 18:06:31 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:two_is_a_party": {
+    "criteria": {
+      "friend": "2023-05-28 15:08:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-05-28 18:06:31 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:cheater": {
+    "criteria": {
+      "cheater": "2023-05-28 15:08:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-05-28 18:06:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2023-05-28 18:07:39 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-05-28 15:16:50 -0400",
+      "minecraft:taiga": "2023-05-28 15:08:32 -0400",
+      "minecraft:deep_ocean": "2023-05-28 17:33:27 -0400",
+      "minecraft:sunflower_plains": "2023-05-28 15:07:54 -0400",
+      "minecraft:birch_forest": "2023-05-28 15:09:40 -0400",
+      "minecraft:windswept_hills": "2023-05-28 15:38:25 -0400",
+      "minecraft:badlands": "2023-05-28 17:43:04 -0400",
+      "minecraft:beach": "2023-05-28 17:27:18 -0400",
+      "minecraft:dark_forest": "2023-05-28 15:50:04 -0400",
+      "minecraft:sparse_jungle": "2023-05-28 17:44:05 -0400",
+      "minecraft:lukewarm_ocean": "2023-05-28 17:32:36 -0400",
+      "minecraft:river": "2023-05-28 15:37:45 -0400",
+      "minecraft:stony_shore": "2023-05-28 15:38:24 -0400",
+      "minecraft:swamp": "2023-05-28 15:37:55 -0400",
+      "minecraft:forest": "2023-05-28 15:53:38 -0400",
+      "minecraft:lush_caves": "2023-05-28 17:45:00 -0400",
+      "minecraft:desert": "2023-05-28 15:27:28 -0400",
+      "minecraft:windswept_forest": "2023-05-28 17:44:01 -0400",
+      "minecraft:ocean": "2023-05-28 16:47:59 -0400",
+      "minecraft:jungle": "2023-05-28 17:44:06 -0400",
+      "minecraft:warm_ocean": "2023-05-28 15:43:19 -0400",
+      "minecraft:deep_lukewarm_ocean": "2023-05-28 17:33:01 -0400",
+      "minecraft:windswept_gravelly_hills": "2023-05-28 15:38:30 -0400",
+      "minecraft:savanna": "2023-05-28 15:39:36 -0400",
+      "minecraft:plains": "2023-05-28 15:52:57 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-05-28 18:06:28 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:ruined_city": {
+    "criteria": {
+      "enterAtlas": "2023-05-28 18:07:39 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:the_deserted_city": {
+    "criteria": {
+      "enterLosEchos": "2023-05-28 15:27:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "owza_advancements:milestones": {
+    "criteria": {
+      "automatic": "2023-05-28 15:20:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2023-05-28 18:06:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2023-05-28 16:30:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2023-05-28 18:06:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2023-05-28 18:06:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-05-28 15:43:27 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
